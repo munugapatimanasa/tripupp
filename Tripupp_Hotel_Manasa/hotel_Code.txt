@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="hotel.css">
+    
+    <title>tripupp</title>
+</head>
+<body>
+    <header>Tripupp</header>
+
+
+            <div class="form-div" >
+                <nav>
+
+                <ul>
+                    <li><a href="#" >GateWays</a></li>
+                    <li><a href="#" >Destination</a></li>
+                    <li><a href="#">HolidayTheme</a></li>
+                    <li><a href="#">Compassion</a></li>
+
+                    <li class="item" ><a href="#" >Packages</a></li>
+                    <li  class="item"><a href="#">Hotel</a></li>
+                    <li class="item"><a href="#" >Flight</a></li>
+                    <li class="item" ><a href="#">Visa</a></li>
+
+                </ul>
+            </nav>
+
+
+                <h2 id="heading">Planning your holiday</h2>
+                <p class="travel">Find travel packages from sellers across destination</p>
+                <br>
+                <br>
+                <nav>
+                <ul id="city">
+                <li><a href="#" >Enter city</a></li>
+                <li><a href="#" >Check-Out</a></li>
+                <li><a href="#">Check-Out</a></li>
+                <li><a href="#">Rooms&Guests</a></li>
+                    <li><a href="#">Explore</a></li>
+                </ul>
+                </nav>
+
+            </div>
+<div>
+    <h1>Hotels in Goa</h1>
+    <p>Best Forever</p>
+    <nav>
+        <ul>
+        <li><p>Best hotel for you</p></li>
+        <li><button class="bs-btn ">Explore More</button></li>
+        </ul>
+        </nav>
+</div>
+
+
+    <div>
+        <h1>Hotels in Mumbai</h1>
+        <p>Best Forever</p>
+        <nav>
+            <ul>
+                <li><p>Best hotel for you</p></li>
+                <li><button class="bs-btn ">Explore More</button></li>
+            </ul>
+        </nav>
+        <nav>
+            <ul>
+                <li><img src="images/2a61cd38_z.webp" width="300" height="300"> </li>
+                <li><img src="images/194488_14060515590019718447.jpg" width="300" height="300"> </li>
+                <li><img src="images/95506278.jpg" width="300" height="300"> </li>
+                <li><img src="images/103705059.jpg" width="300" height="300"> </li>
+
+            </ul>
+        </nav>
+    </div>
+
+    <div>
+        <h1>Hotels in Delhi </h1>
+        <p>Best Forever</p>
+        <nav>
+            <ul>
+                <li><p>Best hotel for you</p></li>
+                <li><button class="bs-btn ">Explore More</button></li>
+            </ul>
+        </nav>
+        <nav>
+            <ul>
+                <li><div class="box"> <img src="images/2a61cd38_z.webp" width="300" height="300">
+                    <div class="text"><h1> Hotel the royal plaza</h1>
+                    <p>Top best forever</p>
+                        <p>(14k review)</p><p>Rs.25000</p></div>
+                </div></li>
+                <li><div class="box"><img src="images/194488_14060515590019718447.jpg" width="300" height="300">
+                    <div class="text"><h1>The metropolitan hotel</h1><p>Top best forever</p>
+                    <p>(4k review)</p><p>Rs.22000</p></div></div> </li>
+                <li><div class="box"><img src="images/95506278.jpg" width="300" height="300">
+                    <div class="text"><h1>Ttc mourya plaza</h1><p>Top best forever</p>
+                    <p>(9k review)</p><p>Rs.25000</p></div></div>
+                </li>
+                <li><div class="box"><img src="images/103705059.jpg" width="300" height="300">
+                    <div class="text"><h1>The ashok hotel</h1><p>Top best forever</p>
+                    <p>(8k review)</p><p>Rs.21000</p></div></div></li>
+
+            </ul>
+        </nav>
+    </div>
+    <div>
+        <h1>Hotels in Banglore</h1>
+        <p>Best Forever</p>
+        <nav>
+            <ul>
+                <li><div class="box"> <img src="images/2a61cd38_z.webp" width="300" height="300">
+                    <div class="text"><h1> Sheraton grand hotel</h1>
+                        <p>Top best forever</p>
+                        <p>(14k review)</p><p>Rs.25000</p></div>
+                </div></li>
+                <li><div class="box"><img src="images/194488_14060515590019718447.jpg" width="300" height="300">
+                    <div class="text"><h1>Hyatt centric plaza</h1><p>Top best forever</p>
+                        <p>(4k review)</p><p>Rs.22000</p></div></div> </li>
+                <li><div class="box"><img src="images/95506278.jpg" width="300" height="300">
+                    <div class="text"><h1>The leela palace</h1><p>Top best forever</p>
+                        <p>(9k review)</p><p>Rs.25000</p></div></div>
+                </li>
+                <li><div class="box"><img src="images/103705059.jpg" width="300" height="300">
+                    <div class="text"><h1>The ashok hotel</h1><p>Top best forever</p>
+                        <p>(8k review)</p><p>Rs.21000</p></div></div></li>
+
+            </ul>
+        </nav>
+
+    </div>
+    <div>
+        <h1>Hotels in Kolkata</h1>
+        <p>Best Forever</p>
+        <nav>
+            <ul>
+                <li><p>Best hotel for you</p></li>
+                <li><button class="bs-btn ">Explore More</button></li>
+            </ul>
+        </nav>
+        <nav>
+        <ul>
+            <li><div class="box"> <img src="images/2a61cd38_z.webp" width="300" height="300">
+                <div class="text"><h1> Oberoy grand hotel</h1>
+                    <p>Top best forever</p>
+                    <p>(14k review)</p><p>Rs.25000</p></div>
+            </div></li>
+            <li><div class="box"><img src="images/194488_14060515590019718447.jpg" width="300" height="300">
+                <div class="text"><h1>The peerless inn plaza</h1><p>Top best forever</p>
+                    <p>(4k review)</p><p>Rs.22000</p></div></div> </li>
+            <li><div class="box"><img src="images/95506278.jpg" width="300" height="300">
+                <div class="text"><h1>Hotel casa fortuna</h1><p>Top best forever</p>
+                    <p>(9k review)</p><p>Rs.25000</p></div></div>
+            </li>
+            <li><div class="box"><img src="images/103705059.jpg" width="300" height="300">
+                <div class="text"><h1>Jw marriot hotel</h1><p>Top best forever</p>
+                    <p>(8k review)</p><p>Rs.21000</p></div></div></li>
+
+        </ul>
+    </nav>
+
+
+    </div>
+    <div>
+        <h1>Hotels in India</h1>
+        <p>Best Forever</p>
+        <nav>
+            <ul>
+                <li><p>Best hotel for you</p></li>
+                <li><button class="bs-btn ">Explore More</button></li>
+            </ul>
+        </nav>
+        <nav>
+            <ul>
+                <li><img src="images/2a61cd38_z.webp" width="300" height="300"> </li>
+                <li><img src="images/194488_14060515590019718447.jpg" width="300" height="300"> </li>
+                <li><img src="images/95506278.jpg" width="300" height="300"> </li>
+                <li><img src="images/103705059.jpg" width="300" height="300"> </li>
+
+            </ul>
+        </nav>
+    </div>
+
+
+</body>
+    
+
+
+</html>
